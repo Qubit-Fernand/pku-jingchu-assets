@@ -1,0 +1,8 @@
+# Local operating-system and editor files
+.DS_Store
+._*
+.Trashes/
+.AppleDouble/
+__pycache__/
+*.pyc
+~$*

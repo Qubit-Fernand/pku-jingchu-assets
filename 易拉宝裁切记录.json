@@ -1,0 +1,89 @@
+{
+  "catalog_date": "2026-10-08",
+  "source_png": "/Users/AntiEntropy/Documents/荆楚协会/02_活动项目/2026-10-10迎新交流会/印刷物料/2026-10-10-迎新会易拉宝/references/往年易拉宝.png",
+  "source_pixels": [
+    3024,
+    7559
+  ],
+  "source_pixel_sha256": "2bfe6194fd8c75426b6bcfbb2f0b8e8adcb129fc1c9ea3943b98a3ed32b7b23d",
+  "2024_pdf_image_matches_png_exactly": true,
+  "2026_download_matches_project_pdf_exactly": true,
+  "source_kind": "flattened 2024 banner, not independent original photographs",
+  "assets": [
+    {
+      "file": "照片/北大校门-成品裁切.png",
+      "pixels": [
+        2200,
+        1900
+      ],
+      "source_crop_xywh": [
+        270,
+        400,
+        2200,
+        1900
+      ],
+      "note": "2026制作记录中的北大校门取景区域；保留真实牌匾文字。",
+      "sha256": "8385785b04056a28ece977f9cc923bfa845b0bf9f8aa0911a56b114cc5fb8942"
+    },
+    {
+      "file": "照片/黄鹤楼-成品裁切.png",
+      "pixels": [
+        2464,
+        1640
+      ],
+      "source_crop_xywh": [
+        280,
+        3060,
+        2464,
+        1640
+      ],
+      "note": "2026制作记录中的黄鹤楼取景区域；避开活动标题与日期。",
+      "sha256": "0d356ac00ceaea9e93b3c94a6bad038a10dabeaa1dfd521fc05aa1973fd557dc"
+    },
+    {
+      "file": "照片/清华园校门局部-成品裁切.png",
+      "pixels": [
+        2470,
+        1580
+      ],
+      "source_crop_xywh": [
+        270,
+        5620,
+        2470,
+        1580
+      ],
+      "note": "2024整图的清华园照片可见区域；避开活动文字与白色边框，建筑下部有裁切。未用于2026迎新版。",
+      "sha256": "3f62a3bdcd4841989dcf80f2d2837cb07022cf4cc453988e70f3839239fbd479"
+    },
+    {
+      "file": "背景纹理/建筑屋檐-标题带裁切.png",
+      "pixels": [
+        2200,
+        680
+      ],
+      "source_crop_xywh": [
+        270,
+        1600,
+        2200,
+        680
+      ],
+      "note": "2026标题带采用的建筑纹理区域；此处保留未叠加红色遮罩的原像素。",
+      "sha256": "8ac3c3de9d991064be0187674b0b6f62f31de6f89c8ad3cb29257f61f986d1da"
+    },
+    {
+      "file": "背景纹理/天空云层-页脚裁切.png",
+      "pixels": [
+        450,
+        600
+      ],
+      "source_crop_xywh": [
+        300,
+        3300,
+        450,
+        600
+      ],
+      "note": "2026页脚背景采用的云层区域；尺寸仅450×600，适合作低对比背景。未叠加原排版中的淡色遮罩。",
+      "sha256": "5da331dcf6e5e901c33f82cf64fd6f6e079986a5eb40b65ef751874440acc79f"
+    }
+  ]
+}
