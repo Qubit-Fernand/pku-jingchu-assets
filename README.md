@@ -25,16 +25,14 @@
 
 ## 下载与同步
 
-6个超过10 MB的文件通过Git LFS存储。克隆前安装[Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage)，然后运行：
+所有素材均通过普通 Git 存储，无需安装 Git LFS。克隆仓库即可获得完整文件：
 
 ```bash
-git lfs install
 git clone https://github.com/Qubit-Fernand/pku-jingchu-assets.git
 cd pku-jingchu-assets
-git lfs pull
 ```
 
-后续修改使用普通Git提交和推送；Git LFS会随推送上传相应大文件。本仓库为私有仓库，访问及克隆需要GitHub权限。
+后续使用 `git pull` 更新，修改后使用普通 Git 提交和推送。本仓库为私有仓库，访问及克隆需要 GitHub 权限。
 
 ## 来源与版本
 

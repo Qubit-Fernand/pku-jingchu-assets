@@ -1,10 +1,3 @@
-设计与印刷/2026迎新-易拉宝-宋体微调版-80x200cm.pdf filter=lfs diff=lfs merge=lfs -text
-文化衫/文化衫-湖北美食款-编辑源.ai filter=lfs diff=lfs merge=lfs -text
-照片与截图/2024毕业联谊-易拉宝整图源文件.png filter=lfs diff=lfs merge=lfs -text
-历史素材包/荆楚协会公共素材-2026-10-08.zip filter=lfs diff=lfs merge=lfs -text
-PPT与音频/2026迎新-现场PPT-飞书附件版.pptx filter=lfs diff=lfs merge=lfs -text
-设计与印刷/2024毕业联谊-易拉宝原图.pdf filter=lfs diff=lfs merge=lfs -text
-
 # Illustrator and PDF source files are binary assets.
 *.ai -diff -text
 *.pdf -diff -text
