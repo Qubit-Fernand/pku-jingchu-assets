@@ -32,7 +32,7 @@ git clone https://github.com/Qubit-Fernand/pku-jingchu-assets.git
 cd pku-jingchu-assets
 ```
 
-后续使用 `git pull` 更新，修改后使用普通 Git 提交和推送。本仓库为私有仓库，访问及克隆需要 GitHub 权限。
+后续使用 `git pull` 更新，修改后使用普通 Git 提交和推送。本仓库为公开仓库，可以直接浏览、下载和克隆。
 
 ## 来源与版本
 
