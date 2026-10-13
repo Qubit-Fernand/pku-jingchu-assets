@@ -8,67 +8,90 @@
       "source": "/Users/AntiEntropy/Documents/Pictures/logo/Harvard.png",
       "file": "其他高校与科研机构/Harvard.png",
       "sha256": "73fef77d20d240ec1452f6a961ccbbf4ba255937d0f731cbb5ba06c761121459",
-      "status": "已补入"
+      "status": "已补入",
+      "current_repository_path": null,
+      "current_status": "2026-10-13 从荆楚素材库移到回收站"
     },
     {
       "source": "/Users/AntiEntropy/Documents/Pictures/logo/IIIS.png",
       "file": "其他高校与科研机构/IIIS.png",
       "sha256": "9e361a4dcd59451792281b82db92b68fcafc599be7453baec2f732275ea147a3",
-      "status": "已补入"
+      "status": "已补入",
+      "current_repository_path": null,
+      "current_status": "2026-10-13 从荆楚素材库移到回收站"
     },
     {
       "source": "/Users/AntiEntropy/Documents/Pictures/logo/PKU logo.png",
       "file": "北大校徽与校名/北大校徽-透明-128x128.png",
       "sha256": "41a29d1779f6c3aa650aa2fa24e66842320e50f094ebdd49aea60b151994aab7",
-      "status": "已有相同内容，未重复复制"
+      "status": "已有相同内容，未重复复制",
+      "current_repository_path": "标识与电子章/北京大学-校徽-透明-128x128.png",
+      "current_status": "保留，已统一命名"
     },
     {
       "source": "/Users/AntiEntropy/Documents/Pictures/logo/PKU.png",
       "file": "北大校徽与校名/北大标识-PKU-201x58.png",
       "sha256": "10b8f354fefa465f1091c7953341d23084a102fe0b11d49907f3bc61150a9113",
-      "status": "已有相同内容，未重复复制"
+      "status": "已有相同内容，未重复复制",
+      "current_repository_path": "标识与电子章/北京大学-校徽与中英文校名-201x58.png",
+      "current_status": "保留，已统一命名"
     },
     {
       "source": "/Users/AntiEntropy/Documents/Pictures/logo/QIP2025.png",
       "file": "会议标识/QIP2025/QIP2025.png",
       "sha256": "80c47bbee866ad41c14c2b375366a4dd9c176306cfade60109d0b283a43b28ea",
-      "status": "已补入"
+      "status": "已补入",
+      "current_repository_path": null,
+      "current_status": "2026-10-13 从荆楚素材库移到回收站"
     },
     {
       "source": "/Users/AntiEntropy/Documents/Pictures/logo/cfcs 2.PNG",
       "file": "院系与科研机构/CFCS标志-版本2.png",
       "sha256": "617542449311bcc2257d8ced5c4efd5d397f73f78ffbc3f5d713a05a3aa41f1f",
-      "status": "已有相同内容，未重复复制"
+      "status": "已有相同内容，未重复复制",
+      "current_repository_path": "标识与电子章/北京大学前沿计算研究中心-横版.png",
+      "current_status": "保留，已统一命名"
     },
     {
       "source": "/Users/AntiEntropy/Documents/Pictures/logo/cfcs 3.PNG",
       "file": "院系与科研机构/CFCS标志-版本3.png",
       "sha256": "c98a8c64636df68bc97062f603a7a27c9546ce6f8116cf79bd75918b9d309e5c",
-      "status": "已有相同内容，未重复复制"
+      "status": "已有相同内容，未重复复制",
+      "current_repository_path": "标识与电子章/北京大学前沿计算研究中心-上下组合版.png",
+      "current_status": "保留，已统一命名"
     },
     {
       "source": "/Users/AntiEntropy/Documents/Pictures/logo/cfcs.PNG",
       "file": "院系与科研机构/CFCS标志.png",
       "sha256": "8cbe9a863a67e83387504dfbb2410c6852a521990dcc5c7aa6cd65b2c7982850",
-      "status": "已有相同内容，未重复复制"
+      "status": "已有相同内容，未重复复制",
+      "current_repository_path": "标识与电子章/北京大学前沿计算研究中心-方形版.png",
+      "current_status": "保留，已统一命名"
     },
     {
       "source": "/Users/AntiEntropy/Documents/Pictures/logo/footer-logo.png",
       "file": "待确认标识/footer-logo.png",
       "sha256": "8c43ea8dce4c05f3e7477b18be42e65e4897c5931240126c4974db14ca54620d",
-      "status": "已补入"
+      "status": "已补入",
+      "current_repository_path": null,
+      "current_status": "2026-10-13 从荆楚素材库移到回收站"
     },
     {
       "source": "/Users/AntiEntropy/Documents/Pictures/logo/qip 2025.ai",
       "file": "会议标识/QIP2025/qip 2025.ai",
       "sha256": "370b9c8d2d8ec1fdce57ea73f37e88034f28168b06c81c2ffc4968b26e7c3538",
-      "status": "已补入"
+      "status": "已补入",
+      "current_repository_path": null,
+      "current_status": "2026-10-13 从荆楚素材库移到回收站"
     },
     {
       "source": "/Users/AntiEntropy/Documents/Pictures/logo/qip 2025.pdf",
       "file": "会议标识/QIP2025/qip 2025.pdf",
       "sha256": "5ddc85e8fe5ee49e708596913ec9f8134fcd8132ae1da03da803224b9e95f364",
-      "status": "已补入"
+      "status": "已补入",
+      "current_repository_path": null,
+      "current_status": "2026-10-13 从荆楚素材库移到回收站"
     }
-  ]
+  ],
+  "current_inventory_updated_on": "2026-10-13"
 }

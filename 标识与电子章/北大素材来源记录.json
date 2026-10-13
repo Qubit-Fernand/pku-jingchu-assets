@@ -8,7 +8,9 @@
       "size": "128 × 128",
       "additional_sources": [
         "/Users/AntiEntropy/Documents/Pictures/logo/PKU logo.png"
-      ]
+      ],
+      "current_repository_path": "标识与电子章/北京大学-校徽-透明-128x128.png",
+      "current_status": "保留，已统一命名"
     },
     {
       "file": "北大校徽与校名/北大标识-PKU-201x58.png",
@@ -17,25 +19,33 @@
       "size": "201 × 58",
       "additional_sources": [
         "/Users/AntiEntropy/Documents/Pictures/logo/PKU.png"
-      ]
+      ],
+      "current_repository_path": "标识与电子章/北京大学-校徽与中英文校名-201x58.png",
+      "current_status": "保留，已统一命名"
     },
     {
       "file": "北大校徽与校名/北大校徽与校名-横版-726x204.png",
       "source": "/Users/AntiEntropy/Documents/Research/博士生培养环节/开题报告/Report/head/pku_logo.png",
       "sha256": "6fb7b14c93ea8a26446c3d814c29f63018d7a7ef088a2512617bb91009de4549",
-      "size": "726 × 204"
+      "size": "726 × 204",
+      "current_repository_path": "标识与电子章/北京大学-校徽与校名-横版-726x204.png",
+      "current_status": "保留，已统一命名"
     },
     {
       "file": "北大校徽与校名/北大校名-460x132.png",
       "source": "/Users/AntiEntropy/Documents/Code/LaTeX/Dissertation/img/pku-text-logo.png",
       "sha256": "9787d21d15f5938fea008a04262c03b07f89af7cd45dd9460a4daa60a72c25fb",
-      "size": "460 × 132"
+      "size": "460 × 132",
+      "current_repository_path": "标识与电子章/北京大学-校名-460x132.png",
+      "current_status": "保留，已统一命名"
     },
     {
       "file": "北大校徽与校名/北大校徽与中英文校名-横竖组合-矢量.pdf",
       "source": "/Users/AntiEntropy/Documents/本科归档/Mathematics/Advanced Algebra/Homework/高等代数作业tex模板/figures/pku.pdf",
       "sha256": "f5117a80eb245c5440adef52dc46300de99d934c3666733b176e17aae16d0c24",
-      "size": "矢量 PDF"
+      "size": "矢量 PDF",
+      "current_repository_path": "标识与电子章/北京大学-校徽与中英文校名-横竖组合-矢量.pdf",
+      "current_status": "保留，已统一命名"
     },
     {
       "file": "院系与科研机构/CFCS标志.png",
@@ -44,7 +54,9 @@
       "size": "1609 × 1609",
       "additional_sources": [
         "/Users/AntiEntropy/Documents/Pictures/logo/cfcs.PNG"
-      ]
+      ],
+      "current_repository_path": "标识与电子章/北京大学前沿计算研究中心-方形版.png",
+      "current_status": "保留，已统一命名"
     },
     {
       "file": "院系与科研机构/CFCS标志-版本2.png",
@@ -53,7 +65,9 @@
       "size": "2960 × 380",
       "additional_sources": [
         "/Users/AntiEntropy/Documents/Pictures/logo/cfcs 2.PNG"
-      ]
+      ],
+      "current_repository_path": "标识与电子章/北京大学前沿计算研究中心-横版.png",
+      "current_status": "保留，已统一命名"
     },
     {
       "file": "院系与科研机构/CFCS标志-版本3.png",
@@ -62,13 +76,18 @@
       "size": "2960 × 1332",
       "additional_sources": [
         "/Users/AntiEntropy/Documents/Pictures/logo/cfcs 3.PNG"
-      ]
+      ],
+      "current_repository_path": "标识与电子章/北京大学前沿计算研究中心-上下组合版.png",
+      "current_status": "保留，已统一命名"
     },
     {
       "file": "院系与科研机构/PKUPhy标识.png",
       "source": "/Users/AntiEntropy/Documents/Code/LaTeX/PKUModernPhyLabReport_LaTeX/PKUPhy.png",
       "sha256": "12c846240f14fb7ce14b5c9ca918bdf2d675175067806944212d3ca28441a55d",
-      "size": "391 × 58"
+      "size": "391 × 58",
+      "current_repository_path": null,
+      "current_status": "2026-10-13 从荆楚素材库移到回收站"
     }
-  ]
+  ],
+  "current_inventory_updated_on": "2026-10-13"
 }
