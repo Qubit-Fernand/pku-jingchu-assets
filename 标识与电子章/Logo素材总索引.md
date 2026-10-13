@@ -4,9 +4,9 @@
 
 ## 协会标识
 
-- [协会组合 Logo](<标识与电子章/协会-logo.png>)
-- [Pages 编辑源](<标识与电子章/协会-logo-编辑源.pages>)
-- [协会水印](<标识与电子章/协会-logo-透明水印.png>)
+- [协会组合 Logo](<协会-logo.png>)
+- [Pages 编辑源](<协会-logo-编辑源.pages>)
+- [协会水印](<协会-logo-透明水印.png>)
 
 ## 北大与院系标识
 
@@ -18,12 +18,12 @@
 
 | 文件 | 规格 |
 | --- | --- |
-| [Harvard.png](<标识与电子章/Harvard.png>) | 500 × 281 PNG |
-| [IIIS.png](<标识与电子章/IIIS.png>) | 900 × 443 PNG |
-| [QIP2025.png](<标识与电子章/QIP2025-logo.png>) | 2344 × 545 PNG |
-| [footer-logo.png](<标识与电子章/待确认标识-footer-logo.png>) | 136 × 94 PNG |
-| [qip 2025.ai](<标识与电子章/QIP2025-logo.ai>) | AI |
-| [qip 2025.pdf](<标识与电子章/QIP2025-logo.pdf>) | PDF |
+| [Harvard.png](<Harvard.png>) | 500 × 281 PNG |
+| [IIIS.png](<IIIS.png>) | 900 × 443 PNG |
+| [QIP2025.png](<QIP2025-logo.png>) | 2344 × 545 PNG |
+| [footer-logo.png](<待确认标识-footer-logo.png>) | 136 × 94 PNG |
+| [qip 2025.ai](<QIP2025-logo.ai>) | AI |
+| [qip 2025.pdf](<QIP2025-logo.pdf>) | PDF |
 
 `待确认标识-footer-logo.png` 的具体标识主体尚未确认。所有标识直接存于“标识与电子章”，通过文件名区分机构和会议。
 
